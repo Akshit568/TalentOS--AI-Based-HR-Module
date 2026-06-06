@@ -368,14 +368,6 @@ The AI resume screening engine (`utils/resumeScreener.js`) works in 3 steps:
 
 ---
 
-## Submission
-
-**Hackathon:** FWC IT Services Pvt. Ltd. — OC.26813.2026.59489
-**Submission Date:** June 7, 2026
-**Project:** AI-Based HR Module & Hackathon Management System
-
----
-
 <div align="center">
-Built with ❤️ for FWC IT Services Hackathon 2026
+Built with ❤️
 </div>
